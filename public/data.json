@@ -1,0 +1,26 @@
+[
+  {
+    "id": "LA56123",
+    "name": "Koottta Og'a",
+    "quantity": 3,
+    "dueDate": "31 Aug 2024",
+    "totalPrice": 123000,
+    "status": "pending"
+  },
+  {
+    "id": "RT3080",
+    "name": "John Smith",
+    "quantity": 5,
+    "dueDate": "31 Aug 2024",
+    "totalPrice": 123000,
+    "status": "paid"
+  },
+  {
+    "id": "LT34680",
+    "name": "Janathan Doe",
+    "quantity": 3,
+    "dueDate": "31 Aug 2024",
+    "totalPrice": 123000,
+    "status": "draft"
+  }
+]
